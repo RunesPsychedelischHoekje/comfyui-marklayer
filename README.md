@@ -13,6 +13,8 @@ If you run a generative AI app or service that people in the EU use, you are the
 mark outputs in a machine-readable way: since 2 August 2026 for new systems, and by **2 December 2026**
 for systems already on the market. That applies even when the underlying model is someone else's.
 
+![The MarkLayer Save Image node in a ComfyUI workflow](docs/node.png)
+
 ## Install
 
 **ComfyUI Manager:** search for "MarkLayer" and install.
