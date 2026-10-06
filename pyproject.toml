@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-marklayer"
+description = "Save images with EU AI Act (Article 50) marking: signed C2PA Content Credentials, an invisible TrustMark watermark and the IPTC 'AI-generated' tag, via the MarkLayer API."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/RunesPsychedelischHoekje/comfyui-marklayer"
+
+[tool.comfy]
+PublisherId = ""   # your publisher id from registry.comfy.org
+DisplayName = "MarkLayer: EU AI Act image marking"
+Icon = ""
